@@ -18,42 +18,39 @@
 
 \`\`\`javascript
 class JihadHossainJisan {
-    constructor() {
-        this.name = "Jihad Hossain Jisan";
-        this.title = "AI Enthusiast & Full Stack Developer";
-        this.location = "Bangladesh 🇧🇩";
-        this.website = "https://jisan-tech.vercel.app/";
-        this.mission = "Building the future through code, innovation, and passion for technology";
-    }
+  constructor() {
+    this.name = "Jihad Hossain Jisan";
+    this.title = "AI Enthusiast & Full Stack Developer";
+    this.location = "Bangladesh 🇧🇩";
+    this.website = "https://jisan-tech.vercel.app/";
+    this.mission = "Building the future through code, innovation, and passion for technology";
+  }
 
-    getCurrentStatus() {
-        return {
-            🎓 studying: "Computer Science & Engineering",
-            💻 coding: ["React.js", "Node.js", "Python", "AI/ML"],
-            🌱 growing: ["Technical Skills", "Indoor Garden", "Knowledge"],
-            🎮 playing: ["Strategy Games", "RPGs"],
-            📚 reading: ["Tech Blogs", "Sci-Fi Novels", "AI Research"],
-            ☕ drinking: "Coffee (lots of it!)"
-        };
-    }
+  getCurrentStatus() {
+    return {
+      studying: "Computer Science & Engineering",
+      coding: ["React.js", "Node.js", "Python", "AI/ML"],
+      growing: ["Technical Skills", "Indoor Garden", "Knowledge"],
+      playing: ["Strategy Games", "RPGs"],
+      reading: ["Tech Blogs", "Sci-Fi Novels", "AI Research"],
+      drinking: "Coffee (lots of it!)"
+    };
+  }
 
-    getPassions() {
-        return [
-            "🤖 Artificial Intelligence",
-            "🌐 Web Development", 
-            "📱 Mobile Apps",
-            "🌱 Sustainable Technology",
-            "🎮 Game Development"
-        ];
-    }
+  getPassions() {
+    return [
+      "🤖 Artificial Intelligence",
+      "🌐 Web Development", 
+      "📱 Mobile Apps",
+      "🌱 Sustainable Technology",
+      "🎮 Game Development"
+    ];
+  }
 
-    getDreamProject() {
-        return "Building an AI that helps optimize urban farming and sustainable living";
-    }
+  getDreamProject() {
+    return "Building an AI that helps optimize urban farming and sustainable living";
+  }
 }
-
-const developer = new JihadHossainJisan();
-console.log(developer.getCurrentStatus());
 \`\`\`
 
 <br clear="both">
