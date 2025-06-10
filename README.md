@@ -79,9 +79,9 @@ class JihadHossainJisan {
 
 | 🧠 **The AI Enthusiast** | 💻 **The Code Craftsman** | 🌱 **The Digital Gardener** |
 |:---:|:---:|:---:|
-| ![AI](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif) | ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) | ![Plant](https://media.giphy.com/media/l1KVcMMxJJpks23cs/giphy.gif) |
-| *Exploring machine learning* | *Crafting clean, efficient code* | *Growing plants & knowledge* |
-| *and neural networks* | *that solves real problems* | *with equal dedication* |
+| ![AI](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif) | ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) |
+| *Exploring machine learning* | *Crafting clean, efficient code* |
+| *and neural networks* | *that solves real problems* |
 
 </div>
 
