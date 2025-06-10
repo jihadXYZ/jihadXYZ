@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-\`\`\`javascript
+```javascript
 class JihadHossainJisan {
   constructor() {
     this.name = "Jihad Hossain Jisan";
@@ -51,14 +51,12 @@ class JihadHossainJisan {
     return "Building an AI that helps optimize urban farming and sustainable living";
   }
 }
-
-const developer = new JihadHossainJisan();
-console.log(developer.getCurrentStatus());
-\`\`\`
+```
 
 <br clear="both">
 
 ---
+
 
 ## 🌟 My Digital Presence
 
