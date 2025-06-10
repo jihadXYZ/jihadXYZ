@@ -72,9 +72,19 @@ class JihadHossainJisan {
 </div>
 
 ---
+## 🎭 The Many Faces of Jihad
 
-![image](https://github.com/user-attachments/assets/7f82d5e1-7a2f-4c60-bfe0-f76ac755dac3)
+<div align="center">
 
+| 🧠 **The AI Enthusiast** | 💻 **The Code Craftsman** | 🎮 **The Tech Gamer** |
+|:---:|:---:|:---:|
+| ![AI](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif) | ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) | ![Gaming](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) |
+| *Exploring machine learning* | *Crafting clean, efficient code* | *Mastering strategy games* |
+| *and neural networks* | *that solves real problems* | *and competitive gaming* |
+
+</div>
+
+---
 
 ## 🎯 Current Missions & Side Quests
 
