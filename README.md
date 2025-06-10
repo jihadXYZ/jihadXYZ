@@ -77,7 +77,7 @@ class JihadHossainJisan {
 
 <div align="center">
 
-| 🧠 **The AI Enthusiast** | 💻 **The Code Craftsman** | 🌱 **The Digital Gardener** |
+| 🧠 **The AI Enthusiast** | 💻 **The Code Craftsman** |
 |:---:|:---:|:---:|
 | ![AI](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif) | ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) |
 | *Exploring machine learning* | *Crafting clean, efficient code* |
