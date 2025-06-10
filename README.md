@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-```javascript
+\`\`\`javascript
 class JihadHossainJisan {
   constructor() {
     this.name = "Jihad Hossain Jisan";
@@ -51,12 +51,14 @@ class JihadHossainJisan {
     return "Building an AI that helps optimize urban farming and sustainable living";
   }
 }
-```
+
+const developer = new JihadHossainJisan();
+console.log(developer.getCurrentStatus());
+\`\`\`
 
 <br clear="both">
 
 ---
-
 
 ## 🌟 My Digital Presence
 
@@ -77,11 +79,11 @@ class JihadHossainJisan {
 
 <div align="center">
 
-| 🧠 **The AI Enthusiast** | 💻 **The Code Craftsman** |
+| 🧠 **The AI Enthusiast** | 💻 **The Code Craftsman** | 🌱 **The Digital Gardener** |
 |:---:|:---:|:---:|
-| ![AI](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif) | ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) |
-| *Exploring machine learning* | *Crafting clean, efficient code* |
-| *and neural networks* | *that solves real problems* |
+| ![AI](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif) | ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) | ![Plant](https://media.giphy.com/media/l1KVcMMxJJpks23cs/giphy.gif) |
+| *Exploring machine learning* | *Crafting clean, efficient code* | *Growing plants & knowledge* |
+| *and neural networks* | *that solves real problems* | *with equal dedication* |
 
 </div>
 
