@@ -97,7 +97,7 @@ class JihadHossainJisan {
 
 <h4>🎓 Master Computer Science Fundamentals</h4>
 <p>
-<img src="https://progress-bar.dev/75/?width=200&color=0366d6" alt="Progress: 75%" />
+<img src="https://img.shields.io/badge/Progress-75%25-blue?style=flat-square&logo=progress&logoColor=white" alt="Progress: 75%" />
 </p>
 <p><strong>Status:</strong> In Progress • <strong>ETA:</strong> 6 months</p>
 
@@ -106,7 +106,7 @@ class JihadHossainJisan {
 
 <h4>🤖 Build AI-Powered Applications</h4>
 <p>
-<img src="https://progress-bar.dev/60/?width=200&color=0366d6" alt="Progress: 60%" />
+<img src="https://img.shields.io/badge/Progress-60%25-blue?style=flat-square&logo=progress&logoColor=white" alt="Progress: 60%" />
 </p>
 <p><strong>Status:</strong> Active Development • <strong>ETA:</strong> 4 months</p>
 
@@ -117,7 +117,7 @@ class JihadHossainJisan {
 
 <h4>🌐 Launch 5 Full-Stack Projects</h4>
 <p>
-<img src="https://progress-bar.dev/40/?width=200&color=0366d6" alt="Progress: 40%" />
+<img src="https://img.shields.io/badge/Progress-40%25-orange?style=flat-square&logo=progress&logoColor=white" alt="Progress: 40%" />
 </p>
 <p><strong>Status:</strong> Coding Phase • <strong>ETA:</strong> 8 months</p>
 
@@ -126,7 +126,7 @@ class JihadHossainJisan {
 
 <h4>🤝 Contribute to Open Source</h4>
 <p>
-<img src="https://progress-bar.dev/30/?width=200&color=0366d6" alt="Progress: 30%" />
+<img src="https://img.shields.io/badge/Progress-30%25-orange?style=flat-square&logo=progress&logoColor=white" alt="Progress: 30%" />
 </p>
 <p><strong>Status:</strong> Research Phase • <strong>ETA:</strong> Ongoing</p>
 
