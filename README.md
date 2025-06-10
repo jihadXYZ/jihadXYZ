@@ -88,61 +88,51 @@ class JihadHossainJisan {
 ## 🎯 Current Missions & Side Quests
 
 <div align="center">
-
-### 🚀 **MAIN QUESTS** - *High Priority Objectives*
+  
+### 🚀 MAIN QUESTS
 
 <table>
 <tr>
 <td width="50%">
 
-**🎓 Master Computer Science Fundamentals**
-\`\`\`
-🔥 Status: IN PROGRESS
-📊 Progress: ████████░░ 75%
-⏰ ETA: 6 months
-🎯 Priority: HIGH
-\`\`\`
+<h4>🎓 Master Computer Science Fundamentals</h4>
+<p>
+<img src="https://progress-bar.dev/75/?width=200&color=0366d6" alt="Progress: 75%" />
+</p>
+<p><strong>Status:</strong> In Progress • <strong>ETA:</strong> 6 months</p>
 
 </td>
 <td width="50%">
 
-**🤖 Build AI-Powered Applications**
-\`\`\`
-🔥 Status: ACTIVE DEVELOPMENT  
-📊 Progress: ██████░░░░ 60%
-⏰ ETA: 4 months
-🎯 Priority: HIGH
-\`\`\`
+<h4>🤖 Build AI-Powered Applications</h4>
+<p>
+<img src="https://progress-bar.dev/60/?width=200&color=0366d6" alt="Progress: 60%" />
+</p>
+<p><strong>Status:</strong> Active Development • <strong>ETA:</strong> 4 months</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🌐 Launch 5 Full-Stack Projects**
-\`\`\`
-🔥 Status: CODING PHASE
-📊 Progress: ████░░░░░░ 40%
-⏰ ETA: 8 months  
-🎯 Priority: MEDIUM
-\`\`\`
+<h4>🌐 Launch 5 Full-Stack Projects</h4>
+<p>
+<img src="https://progress-bar.dev/40/?width=200&color=0366d6" alt="Progress: 40%" />
+</p>
+<p><strong>Status:</strong> Coding Phase • <strong>ETA:</strong> 8 months</p>
 
 </td>
 <td width="50%">
 
-**🤝 Contribute to Open Source**
-\`\`\`
-🔥 Status: RESEARCH PHASE
-📊 Progress: ███░░░░░░░ 30%
-⏰ ETA: Ongoing
-🎯 Priority: MEDIUM
-\`\`\`
+<h4>🤝 Contribute to Open Source</h4>
+<p>
+<img src="https://progress-bar.dev/30/?width=200&color=0366d6" alt="Progress: 30%" />
+</p>
+<p><strong>Status:</strong> Research Phase • <strong>ETA:</strong> Ongoing</p>
 
 </td>
 </tr>
 </table>
-
----
 
 ### 🎮 **SIDE QUESTS** - *Achievement Unlocks*
 
