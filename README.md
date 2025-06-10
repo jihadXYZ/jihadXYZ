@@ -95,21 +95,23 @@ class JihadHossainJisan {
 <tr>
 <td width="50%">
 
-\`\`\`diff
-+ 🎓 Master Computer Science Fundamentals
-! Status: IN PROGRESS
-@ Progress: 75% Complete
-# ETA: 6 months
+**🎓 Master Computer Science Fundamentals**
+\`\`\`
+🔥 Status: IN PROGRESS
+📊 Progress: ████████░░ 75%
+⏰ ETA: 6 months
+🎯 Priority: HIGH
 \`\`\`
 
 </td>
 <td width="50%">
 
-\`\`\`diff
-+ 🤖 Build AI-Powered Applications  
-! Status: ACTIVE DEVELOPMENT
-@ Progress: 60% Complete
-# ETA: 4 months
+**🤖 Build AI-Powered Applications**
+\`\`\`
+🔥 Status: ACTIVE DEVELOPMENT  
+📊 Progress: ██████░░░░ 60%
+⏰ ETA: 4 months
+🎯 Priority: HIGH
 \`\`\`
 
 </td>
@@ -117,21 +119,23 @@ class JihadHossainJisan {
 <tr>
 <td width="50%">
 
-\`\`\`diff
-+ 🌐 Launch 5 Full-Stack Projects
-! Status: CODING PHASE
-@ Progress: 40% Complete  
-# ETA: 8 months
+**🌐 Launch 5 Full-Stack Projects**
+\`\`\`
+🔥 Status: CODING PHASE
+📊 Progress: ████░░░░░░ 40%
+⏰ ETA: 8 months  
+🎯 Priority: MEDIUM
 \`\`\`
 
 </td>
 <td width="50%">
 
-\`\`\`diff
-+ 🤝 Contribute to Open Source
-! Status: RESEARCH PHASE
-@ Progress: 30% Complete
-# ETA: Ongoing
+**🤝 Contribute to Open Source**
+\`\`\`
+🔥 Status: RESEARCH PHASE
+📊 Progress: ███░░░░░░░ 30%
+⏰ ETA: Ongoing
+🎯 Priority: MEDIUM
 \`\`\`
 
 </td>
@@ -145,24 +149,28 @@ class JihadHossainJisan {
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🌱_Plant_Species-45%25-success?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K" />
+<img src="https://img.shields.io/badge/🌱_Plant_Master-45%25-success?style=for-the-badge" />
 <br><strong>🌿 Green Thumb</strong>
 <br><em>9/20 Species Grown</em>
+<br>🏆 <code>NATURE LOVER</code>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/📚_Books_Read-35%25-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K" />
-<br><strong>📖 Bookworm</strong>
-<br><em>17/50 Books Complete</em>
+<img src="https://img.shields.io/badge/📚_Bookworm-35%25-blue?style=for-the-badge" />
+<br><strong>📖 Knowledge Seeker</strong>
+<br><em>17/50 Books Read</em>
+<br>🏆 <code>SCHOLAR</code>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎯_Strategy_Master-66%25-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K" />
-<br><strong>🎮 Gamer Elite</strong>
+<img src="https://img.shields.io/badge/🎯_Strategy_Pro-66%25-orange?style=for-the-badge" />
+<br><strong>🎮 Gaming Elite</strong>
 <br><em>2/3 Games Mastered</em>
+<br>🏆 <code>TACTICIAN</code>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/☕_Coffee_Art-80%25-brown?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K" />
-<br><strong>☕ Barista Pro</strong>
-<br><em>Nearly Perfect Brew</em>
+<img src="https://img.shields.io/badge/☕_Barista-80%25-brown?style=for-the-badge" />
+<br><strong>☕ Coffee Master</strong>
+<br><em>Perfect Brew Achieved</em>
+<br>🏆 <code>CAFFEINE GURU</code>
 </td>
 </tr>
 </table>
@@ -174,7 +182,7 @@ class JihadHossainJisan {
 \`\`\`yaml
 🔥 Current Streak: 45 days of coding
 ⚡ Energy Level: 85% (Coffee Powered)
-🧠 Focus Mode: DEEP WORK ACTIVATED
+🧠 Focus Mode: DEEP WORK ACTIVATED  
 🎯 Next Milestone: Deploy Portfolio v2.0
 📊 Productivity: ████████░░ 80%
 🚀 Motivation: ██████████ 100%
@@ -182,29 +190,40 @@ class JihadHossainJisan {
 
 ### 🏆 **ACHIEVEMENT BOARD**
 
-<div align="left">
-
-| 🏅 **Achievement** | 📅 **Unlocked** | 🎖️ **Rarity** |
-|:---|:---:|:---:|
-| 🔥 **Code Streak Master** | *Active* | ![Legendary](https://img.shields.io/badge/-LEGENDARY-gold?style=flat-square) |
-| 🌟 **First Open Source PR** | *Pending* | ![Epic](https://img.shields.io/badge/-EPIC-purple?style=flat-square) |
-| 🚀 **Deploy to Production** | *2024* | ![Rare](https://img.shields.io/badge/-RARE-blue?style=flat-square) |
-| 🎓 **CS Fundamentals** | *In Progress* | ![Common](https://img.shields.io/badge/-COMMON-green?style=flat-square) |
-
-</div>
+| 🏅 **Achievement** | 📅 **Status** | 🎖️ **Rarity** | 💎 **XP** |
+|:---|:---:|:---:|:---:|
+| 🔥 **Code Streak Master** | ✅ *Active* | ![Legendary](https://img.shields.io/badge/-LEGENDARY-gold?style=flat-square) | 2500 |
+| 🌟 **First Open Source PR** | ⏳ *Pending* | ![Epic](https://img.shields.io/badge/-EPIC-purple?style=flat-square) | 1500 |
+| 🚀 **Production Deploy** | ✅ *Unlocked* | ![Rare](https://img.shields.io/badge/-RARE-blue?style=flat-square) | 1000 |
+| 🎓 **CS Fundamentals** | 🔄 *In Progress* | ![Common](https://img.shields.io/badge/-COMMON-green?style=flat-square) | 500 |
 
 ### ⚡ **POWER-UPS ACTIVE**
 
 <p align="center">
-<img src="https://img.shields.io/badge/☕-Coffee_Boost-brown?style=for-the-badge&logo=coffee" />
-<img src="https://img.shields.io/badge/🎵-Lo--Fi_Mode-purple?style=for-the-badge&logo=spotify" />
-<img src="https://img.shields.io/badge/🌙-Night_Owl-darkblue?style=for-the-badge&logo=moon" />
-<img src="https://img.shields.io/badge/🔥-Flow_State-red?style=for-the-badge&logo=fire" />
+<img src="https://img.shields.io/badge/☕-Coffee_Boost-8B4513?style=for-the-badge&logo=coffeescript&logoColor=white" />
+<img src="https://img.shields.io/badge/🎵-Lo--Fi_Mode-9146FF?style=for-the-badge&logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/🌙-Night_Owl-191970?style=for-the-badge&logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/🔥-Flow_State-FF4500?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
 </p>
+
+### 📈 **DAILY STATS**
+
+\`\`\`javascript
+const dailyStats = {
+  linesOfCode: 247,
+  coffeeConsumed: 4,
+  bugsFixed: 12,
+  featuresBuilt: 2,
+  learningHours: 3.5,
+  focusLevel: "MAXIMUM"
+};
+
+console.log(`Today's productivity: ${dailyStats.focusLevel} 🚀`);
+\`\`\`
 
 </div>
 
----" fix all the prblm" just fiix the code so i can paste it
+---
 
 ## 💭 Random Fun Facts About Me
 
