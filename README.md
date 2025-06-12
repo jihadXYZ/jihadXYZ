@@ -6,7 +6,14 @@
 ### 🌐 **[Visit My Portfolio Website](https://jisan-tech.vercel.app/)** 🌐
 
 </div>
----
+<div align="center">
+
+### 🌐 Find Me Online
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jisan-tech.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jihadhossain101@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jihadXYZ)
+</div>
 
 
 # 💻 Tech Stack:
