@@ -2,7 +2,6 @@
 
 # 🚀 Welcome to Jihad's Digital Universe 🌌
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jihad+%F0%9F%91%8B;AI+Enthusiast+%26+Developer;Computer+Science+Student;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
@@ -13,8 +12,6 @@
 ---
 
 ## 🎯 About Me - The Digital Architect
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ```javascript
 class JihadHossainJisan {
@@ -64,8 +61,6 @@ class JihadHossainJisan {
 
 ### 🏠 **[🌐 Portfolio Website](https://jisan-tech.vercel.app/)** 
 *Showcasing my projects, skills, and journey as an AI enthusiast*
-
-<img src="https://sjc.microlink.io/OyumrwZPwIUkrBz-DkhZml5XQLLGX1ltg60TxWytENBLYBAQSiOiG3VBcFgGkFhsaGYUpvTXzyBBzzX424FQOg.jpeg" width="600" alt="Portfolio Website Preview" />
 
 > **"Building the future through code, innovation, and a passion for technology"**
 
