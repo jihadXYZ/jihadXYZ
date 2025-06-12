@@ -1,20 +1,13 @@
 
 
 # Hello World!, I'm jihad  👋🏼:
-// 👋 Hi, I’m Jihad Hossain Jisan
-
-const Jihad = {
-  role: "Full Stack Developer | AI Enthusiast",
-  location: "Bangladesh 🇧🇩",
-  portfolio: "https://jisan-tech.vercel.app",
-  passions: ["AI 🤖", "Web Dev 🌐", "Mobile Apps 📱", "Game Dev 🎮"],
-  currently: {
-    studying: "Computer Science & Engineering",
-    building: "AI-powered apps & smart web tools",
-    exploring: "Generative AI & sustainable tech"
-  },
-  dreamProject: "AI for smarter, greener urban living"
-};
+🚀 Full Stack Developer | 🤖 AI Enthusiast
+🌍 From: Bangladesh 🇧🇩
+📚 Studying: Computer Science & Engineering
+🧠 Currently building: AI-powered apps & smart web tools
+🧪 Exploring: Generative AI & Sustainable Tech
+🎯 Dream: "Create AI for smarter, greener urban living"
+🌐 Portfolio: jisan-tech.vercel.app
 
 
 
