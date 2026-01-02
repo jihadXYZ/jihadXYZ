@@ -7,7 +7,7 @@
 🧠 Currently building: AI-powered apps & smart web tools
 🧪 Exploring: Generative AI & Sustainable Tech
 🎯 Dream: "Create AI for smarter, greener urban living"
-🌐 Portfolio: jisan-tech.vercel.app
+🌐 Portfolio: https://about-jisan.netlify.app/
 
 
 
@@ -22,7 +22,7 @@
 </picture>
 <div align="center">
 
-### 🌐 **[Visit My Portfolio Website](https://about-me-jis.vercel.app/)** 🌐
+### 🌐 **[Visit My Portfolio Website](https://about-jisan.netlify.app/)** 🌐
 
 </div>
 <div align="center">
